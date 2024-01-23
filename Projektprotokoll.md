@@ -16,3 +16,4 @@ Ole: mariaDB Einrichtung + WSL
 
 13:00 - 14:00
 Patrick: Spring boot maven projekt einrichtung
+Ole: DB per mysql workbench
